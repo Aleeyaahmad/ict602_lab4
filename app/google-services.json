@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "346169308324",
+    "project_id": "lab4aleeyaahmad",
+    "storage_bucket": "lab4aleeyaahmad.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346169308324:android:e4dd19d8140dadd6baa231",
+        "android_client_info": {
+          "package_name": "com.example.lab4aleeyaahmad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnTllYQyi26x7Lhowm9MB98DkO0hqiiPg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
